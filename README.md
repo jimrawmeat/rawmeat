@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# RAW MEAT
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Band from toowoomba Queensland._
 
 </header>
 
@@ -21,9 +21,9 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Enable GitHub Pages
+## RAW MEAT NEWS!!!!
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+10/04/2025: we have recorded our demo and should be releasing it soooon. We have also made a cool music video.
 
 The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
 
@@ -47,8 +47,6 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
